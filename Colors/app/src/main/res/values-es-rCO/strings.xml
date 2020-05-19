@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Colores</string>
+    <string name="lblOpAbout_of">Acerca de</string>
+    <string name="lblOpBlack">Negro</string>
+    <string name="lblOpBlue">Azul</string>
+    <string name="lblOpCyan">Cian</string>
+    <string name="lblOpGreen">Verde</string>
+    <string name="lblOpMagenta">Magenta</string>
+    <string name="lblOpOpaque">Opaco</string>
+    <string name="lblOpRed">Rojo</string>
+    <string name="lblOpReset">Restablecer</string>
+    <string name="lblOpSemitransparent">Semitransparente</string>
+    <string name="lblOpTransparent">Transparente</string>
+    <string name="lblOpWhite">Blanco</string>
+    <string name="lblOpYellow">Amarillo</string>
+    <string name="lbl_alpha">Alfa</string>
+    <string name="lbl_blue">Azul</string>
+    <string name="lbl_green">Verde</string>
+    <string name="lbl_red">Rojo</string>
+    <string name="lblHelp">Ayuda</string>
+    <string name="lbl_first_name">Nombre: </string>
+    <string name="lbl_last_name">Apellido: </string>
+    <string name="lbl_close">Cerrar app</string>
+    <string name="lbl_Information">Información de ayuda</string>
+    <string name="lbl_name">Karen</string>
+    <string name="lbl_last_n">Tumal</string>
+    <string name="lbl_git_hub">GitHub: </string>
+    <string name="lbl_git_user">/Karen9901</string>
+    <string name="lbl_text">El concepto de paleta de colores es aquel que se utiliza para designar al conjunto de colores y tonalidades existentes o elegidas para decorar, pintar, colorear algún objeto o superficie.</string>
+</resources>
